@@ -1,11 +1,6 @@
 <!-- 🌊 HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5EA94A&height=200&section=header&text=Привет!%20Я%20Никола%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- 🐸 ANIMATED BACKGROUND -->
-<p align="center">
-  <img src="https://github.com/NIXXXON177/NIXXXON177/assets/your-matrix-bg.gif" width="100%" alt="matrix code background" />
-</p>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/lI077jIqwvwAAAAd/pepe-code-pepe-computer.gif" width="230" alt="Pepe coding" />
 </p>
@@ -30,17 +25,20 @@
 
 ### 🧱 Вёрстка
 - Владение **HTML5**, **CSS3**, базовым **JavaScript**  
-- Опыт адаптивной вёрстки в **VS Code** и **Cursor**
+- Опыт адаптивной вёрстки в **VS Code**, **Cursor**, **PhpStorm**
 
 ### 🤖 Разработка Telegram-ботов
 - **Python** + библиотеки **aiogram**, **telebot**  
-- Работа с **API**, обработка данных, логика команд и диалогов
+- Работа с **API**, обработка данных, логика команд и диалогов  
+- Использование **PyCharm** для разработки и отладки
 
 ---
 
 ## 🧠 Навыки и технологии
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,figma,git,github,vscode,davinciresolve&theme=dark&perline=8" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,figma,git,github,vscode,phpstorm,pycharm,davinciresolve&theme=light&perline=6" />
+</p>
 
 ---
 
