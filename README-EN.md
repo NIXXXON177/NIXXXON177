@@ -1,7 +1,9 @@
 <p align="center">
   🌐 <a href="README.md">🇷🇺 Русский</a> | <a href="README_EN.md">🇬🇧 English</a>
 </p>
+
 ---
+
 <!-- 🌊 HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5EA94A&height=200&section=header&text=Hi!%20I'm%20Nikola%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
