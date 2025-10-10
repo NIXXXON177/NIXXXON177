@@ -33,7 +33,7 @@
 ## 🧠 Навыки и технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,figma,git,github,vscode,phpstorm,pycharm,davinciresolve&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,figma,git,github,vscode,phpstorm,pycharm,davinciresolve&theme=dark&perline=5" />
 </p>
 
 ---
