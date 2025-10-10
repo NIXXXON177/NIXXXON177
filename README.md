@@ -87,10 +87,10 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/this_is_N_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-5EA94A?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:kudrasovn024@gmail.com">
     <img src="https://img.shields.io/badge/Email-5EA94A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
