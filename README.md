@@ -59,11 +59,6 @@
 
 ---
 
-## 📕 Портфолио
-🔗 [Projects](https://github.com/NIXXXON177/ourinfo/tree/projects)
-
----
-
 ## 📊 GitHub Статистика
 
 <p align="center">
