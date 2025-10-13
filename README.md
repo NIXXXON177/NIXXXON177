@@ -112,7 +112,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/fK0qAu06Y50AAAAC/pepe-hacker.gif" width="250" alt="Pepe hacking" />
+  <img src="https://i.pinimg.com/originals/a9/10/b6/a910b676b84e60cd4508a08dd33aa255.gif" width="250" alt="Pepe hacking" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=5EA94A&height=120&section=footer)
